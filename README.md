@@ -1,6 +1,6 @@
 # Hi there
 <h1 align="center">Hi 👋, I'm Desirey Medina</h1>
-<h3 align="center">Incoming freshman at CSU Dominguez Hills</h3>
+<h3 align="center">Incoming freshman at CSU Dominguez Hills studying to receive a bachelors degree in computer science</h3>
 
 - 🔭 I’m currently working on **family business website**
 
